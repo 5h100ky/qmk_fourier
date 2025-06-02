@@ -4,9 +4,9 @@ Modified version for ProMicro RP2040
 
 A split 40% staggered keyboard made and sold by KEEBD. [More info at KEEBD](https://keebd.com).
 
-Keyboard Maintainer: [KEEBD](https://github.com/keebd)  
-Hardware Supported: Pro Micro  
-Hardware Availability: [KEEBD](https://keebd.com)  
+Keyboard Maintainer:  
+Hardware Supported: Pro Micro RP2040  
+Hardware Availability:  
 
 Make example for this keyboard (after setting up your build environment):
 
