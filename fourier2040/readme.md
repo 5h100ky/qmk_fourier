@@ -1,6 +1,6 @@
-KEEBD Fourier
+modified KEEBD Fourier
 ========
-
+Modified version for ProMicro RP2040
 A split 40% staggered keyboard made and sold by KEEBD. [More info at KEEBD](https://keebd.com).
 
 Keyboard Maintainer: [KEEBD](https://github.com/keebd)  
