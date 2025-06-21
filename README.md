@@ -12,7 +12,7 @@ Stand: soldered completly
 ![IMG_20250619_222416199](https://github.com/user-attachments/assets/9818a04a-8428-4946-95ca-5a0cc6041420)
 ![IMG_20250620_213227235](https://github.com/user-attachments/assets/b986d01a-3882-41bc-bc65-c944f9e4bb10)
 ![IMG_20250619_001652497](https://github.com/user-attachments/assets/93265679-7764-4072-af3e-104a77577362)
-
+![IMG_20250621_232011571](https://github.com/user-attachments/assets/3e5d3589-3eb4-4c4e-89ba-107793836c1d)
 
 BOM Splitt staggered:
 
