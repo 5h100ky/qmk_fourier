@@ -6,6 +6,13 @@ Fourier 40% V1.3 by KEEBD
 Stand: 03. June 2025
 PCB/Top Plate/Bottom Plate ordered
 
+Stand: soldered completly
+![IMG_20250620_213141863](https://github.com/user-attachments/assets/06cea105-7086-49a5-817e-283834b19217)
+![IMG_20250620_213154174](https://github.com/user-attachments/assets/513f1ba4-59ba-41ff-af80-28a3b5c9eee9)
+![IMG_20250619_222416199](https://github.com/user-attachments/assets/9818a04a-8428-4946-95ca-5a0cc6041420)
+![IMG_20250620_213227235](https://github.com/user-attachments/assets/b986d01a-3882-41bc-bc65-c944f9e4bb10)
+![IMG_20250619_001652497](https://github.com/user-attachments/assets/93265679-7764-4072-af3e-104a77577362)
+
 
 BOM Splitt staggered:
 
