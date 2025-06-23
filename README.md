@@ -28,7 +28,7 @@ BOM Splitt staggered:
 - 10 x 6 mm Screw
 - 10 x 4 mm Screw
 - 8 x Clear Rubber Feet
-- 2 x Pro Micro RP2040/Atemega32U4 (I build up it with RP2040 with modification)
+- 2 x Pro Micro RP2040/Atemega32U4
 - 2 x 2u MX Cherry Stabilizers
 - 49 x MX Switches
 - 49 x MX Keycaps
