@@ -1,4 +1,0 @@
-VIA_ENABLE = yes
-LTO_ENABLE = yes
-SERIAL_DRIVER = vendor
-#MOUSEKEY_ENABLE = no
