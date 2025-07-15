@@ -11,62 +11,126 @@
     },
     "layouts": {
         "keymap": [
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ]
+      [
+    "Tab\n`\n~",
+    "Q\n1\n!",
+    "W\n2\n@",
+    "E\n3\n#",
+    "R\n4\n$",
+    "T\n5\n%",
+    {
+      "x": 1.5
+    },
+    "Y\n6\n^",
+    "U\n7\n&",
+    "I\n8\n*",
+    "O\n9\n(",
+    "P\n0\n)",
+    {
+      "w": 2
+    },
+    "Backspace\n\n\n\n2"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Esc\nReset\n\n\n1.25",
+    "A",
+    "S",
+    {
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "D\n\nIns",
+    "F\n<i class='kb kb-Multimedia-Volume-Up-1'></i>\nPgUp",
+    "G\n[\nHome",
+    {
+      "x": 1.5
+    },
+    "H\n]",
+    "J\n4",
+    "K\n5",
+    "L\n6",
+    {
+      "f": 3
+    },
+    "\"\n;\n:\n\n\n\n\n\n'",
+    {
+      "w": 1.75
+    },
+    "Enter\n\n\n\n1.75"
+  ],
+  [
+    {
+      "fa": [
+        0,
+        2,
+        2,
+        0,
+        2
+      ],
+      "w": 1.25,
+      "w2": 1.75
+    },
+    "Shift\nRGB Mod\n\n\n1.75",
+    {
+      "x": 0.5
+    },
+    "Z",
+    "X",
+    "C\n\nDel",
+    {
+      "fa": [
+        0,
+        0,
+        2
+      ]
+    },
+    "V\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\nPgDn",
+    "B\n{\nEnd",
+    {
+      "x": 1.5
+    },
+    "N\n}",
+    "M\n1",
+    "<\n2\n\n\n\n\n\n\n,",
+    ">\n3\n\n\n\n\n\n\n.",
+    "?\n<i class='kb kb-Arrows-Up'></i>\n\n\n1\n\n\n\n/",
+    {
+      "w": 1.25
+    },
+    "Shift\n\n\n\n1.25"
+  ],
+  [
+    "Ctrl\n\n\n\n1",
+    "Alt\n\n\n\n1",
+    "Gui\n\n\n\n1",
+    "Fn1\n\n\n\n1",
+    {
+      "w": 2.25
+    },
+    "Space/Fn1\n\n\n\n2.25",
+    {
+      "x": 1.5,
+      "w": 2.25
+    },
+    "Backspace/Fn2\nDel\n\n\n2.25",
+    {
+      "w": 1.25
+    },
+    "Gui\n\n\n\n1.25",
+    "Alt\n<i class='kb kb-Arrows-Left'></i>\n\n\n1",
+    {
+      "w": 1.25
+    },
+    "Fn2\n<i class='kb kb-Arrows-Down'></i>\n\n\n1.25",
+    "Ctrl\n<i class='kb kb-Arrows-Right'></i>\n\n\n1"
+  ]
+]
         ]
     }
 }
