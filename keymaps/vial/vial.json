@@ -1,0 +1,23 @@
+{
+    "name":"Fourier",
+    "vendorId":"0xFEED",
+    "productId":"0x0000",
+    "matrix": {
+        "rows": 1,
+        "cols": 7
+    },
+    "layouts": {
+        "keymap": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+       
+       
+]            
+    }
+}
